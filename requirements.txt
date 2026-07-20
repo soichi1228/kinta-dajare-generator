@@ -1,0 +1,5 @@
+google-genai
+pydantic
+pykakasi
+sudachipy
+sudachidict_core
